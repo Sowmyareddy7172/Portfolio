@@ -1,1 +1,1 @@
-# portfolio
+Welcome to my personal portfolio! This portfolio showcases my skills, and experience as a software developer. It's designed to give a comprehensive overview of my work and the technologies I specialize in.
